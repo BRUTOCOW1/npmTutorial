@@ -1,6 +1,6 @@
 {
-	"author": "Ben Brutocao",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ben Brutocao",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
